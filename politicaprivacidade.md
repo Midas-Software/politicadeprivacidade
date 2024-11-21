@@ -9,7 +9,7 @@ A sua privacidade é muito importante para nós. Esta Política de Privacidade d
 Esta Política de Privacidade está em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD) do Brasil e o Regulamento Geral de Proteção de Dados (GDPR) da União Europeia, garantindo a transparência e a segurança no tratamento dos dados pessoais.
 
 Informações que Coletamos
-O Mente Ativa pode coletar as seguintes informações:
+O Vendas Midas pode coletar as seguintes informações:
 
 Informações Pessoais: Como nome, endereço de e-mail, e outros dados que você fornecer ao se registrar ou criar uma conta.
 Informações de Uso: Informações sobre como você utiliza o aplicativo, incluindo dados sobre o seu dispositivo, interações com as funcionalidades do app, preferências e configurações.
@@ -22,12 +22,12 @@ Melhorar a experiência do usuário: Para fornecer uma experiência personalizad
 Comunicação: Para enviar notificações, atualizações e responder a perguntas ou solicitações.
 Análises: Para entender como os usuários interagem com o app e melhorar nossos serviços (isso pode incluir o uso de ferramentas de análise como o Google Analytics ou Firebase).
 Segurança e Suporte: Para monitorar e proteger a segurança do app, detectar fraudes ou abuso, e fornecer suporte ao cliente.
-Cookies: O Mente Ativa utiliza cookies e tecnologias semelhantes para melhorar a experiência do usuário e personalizar o conteúdo e anúncios. Cookies são pequenos arquivos de dados armazenados no seu dispositivo enquanto você utiliza o aplicativo. Esses cookies nos ajudam a:
+Cookies: O Vendas Midas utiliza cookies e tecnologias semelhantes para melhorar a experiência do usuário e personalizar o conteúdo e anúncios. Cookies são pequenos arquivos de dados armazenados no seu dispositivo enquanto você utiliza o aplicativo. Esses cookies nos ajudam a:
 Melhorar a funcionalidade: Ao lembrar suas preferências e configurações.
 Analisar o desempenho: Para coletar informações sobre como você usa o aplicativo, ajudando-nos a melhorar seus recursos.
 Personalizar conteúdo e publicidade: Para exibir anúncios relevantes com base em suas interações com o app.
 Base Legal para o Tratamento de Dados
-De acordo com a LGPD e o GDPR, é necessário informar as bases legais que autorizam o tratamento dos seus dados pessoais. Abaixo estão as bases legais que se aplicam ao Mente Ativa:
+De acordo com a LGPD e o GDPR, é necessário informar as bases legais que autorizam o tratamento dos seus dados pessoais. Abaixo estão as bases legais que se aplicam ao Vendas midas:
 
 Consentimento: Ao utilizar o aplicativo, você consente com o tratamento de seus dados pessoais conforme descrito nesta Política de Privacidade. Esse consentimento pode ser revogado a qualquer momento.
 Execução de Contrato: O tratamento dos dados pode ser necessário para a execução de um contrato com o usuário, como, por exemplo, o fornecimento de funcionalidades do aplicativo.
